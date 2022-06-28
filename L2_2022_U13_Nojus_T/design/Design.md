@@ -49,6 +49,7 @@ The collapsing drop section on the right is meant to have login/register as well
 the middle section is supposed to contain content such as deals sales and most popular stuff in like a banner/carousel manner
 
 the bottom section is supposed to contain a carousel of New phone banner releases
+
 # Actual Design
 
 ## Chosen Colour
