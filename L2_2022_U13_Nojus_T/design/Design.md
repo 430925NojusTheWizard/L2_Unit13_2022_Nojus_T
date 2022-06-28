@@ -42,7 +42,13 @@ Due to this Design being too similar to the previous one i decided to attempt on
 ### Design Three
 
 <img src="../img/Design-3.PNG">
+The collapsing drop section on the left is meant to have the products filter etc.
 
+The collapsing drop section on the right is meant to have login/register as well as settings and the cart
+
+the middle section is supposed to contain content such as deals sales and most popular stuff in like a banner/carousel manner
+
+the bottom section is supposed to contain a carousel of New phone banner releases
 # Actual Design
 
 ## Chosen Colour
