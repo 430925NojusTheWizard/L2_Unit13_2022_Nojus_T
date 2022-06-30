@@ -13,18 +13,40 @@
 | Best selling | &check; |  &check; |  &check; |  &check; | &check; |  &check; | &check; |
 | Checkout | &check; |  &check; |  &check; |  &check; | |  &check; | &check; |
 | User | &check; |  &check; |  &check; |  &check; |  |  &check; | &check; |
+
+# Test Plan
+
+|  Test | Expected | Result |
+|---|---|---|
+| Function of <b>all</b> links & hyperlinks in the navigation table| User is taken to expected page/site |  |
+| Browser Compatability (Chrome, Edge, Firefox etc.) | Site looks the same on each browser, interactivities work on each browser |  |
+| Website on Mobile form | Site interactivities and hyperlinks work as it would on PC form |   |
+| Appearance at different resolutions | Site looks the same at all resolutions |   |
+| Products have the correct details | Products retain the details that match them |  |
+| Video & Images working in 2 or more websites | Videos & Images function the same on each browser |  |
+
+
 # Test sheet
 
-|   |  |
-|---|---|
-| Function of <b>all</b> links & hyperlinks | &check; | 
-| Browser Compatability (Chrome, Edge, Firefox etc.) | &check; | 
-| Website works with some errors on Mobile form | &check; |  
-| Appearance at different resolutions | &check; |  
-| Products have the correct details | &check; | 
-| Video working in 2 or more websites | &check; | 
-| Consult with collegues if they see anything out of the ordinary  | &check; | 
-| Function of interactivities on range of browsers | &check; | 
+|  Test | Expected | Result |
+|---|---|---|
+| Function of <b>all</b> links & hyperlinks in the navigation table| User is taken to expected page/site | The links & hyperlinks function according to the navigation table |
+| Browser Compatability (Chrome, Edge, Firefox etc.) | Site looks the same on each browser, interactivities work on each browser | Tested browsers resulted to function exactly the same with no errors |
+| Website on Mobile form | Site interactivities and hyperlinks work as it would on PC form |  The Phone images in the  home page become stretched as mentioned in the Feedback note, the Navbar gets overlapped with User/Cart image everything else works as expected|
+| Appearance at different resolutions | Site looks the same at all resolutions | Site Looks minimally altered in different resolutions  |
+| Products have the correct details | Products retain the details that match them | Products retain the correct detail |
+| Video & Images working in 2 or more websites | Videos & Images function the same on each browser | Videos function with no error |
+
+
+Feedback Note: "all the links work" suggesting the links and hypers links function accordingly
+
+Feedback Note: "When using the zoom fuction the images and names on the home page go out of proportion and lose most of the text" suggesting different resolutions has errors to be fixed --- would be fixed by making images+words+containers adapt to size 
+
+Feedback Note: "Plenty of information is provided about the products you're selling" suggesting Products have correct details
+
+
+
++ Note: Mobile form has multiple errors to be fixed
 
 # Website working on 2 or more browsers + Video working in 2 or more websites
 <img src="../img/2-Browsers.PNG">
